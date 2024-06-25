@@ -104,11 +104,11 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left">🔥   My Stats</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SantiagoVillamilC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=SantiagoVillamilC&locale=en&mode=weekly&theme=github_dark&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SantiagoVillamilC&radius=16&theme=github-dark&area=true&order=5&hide_title=true&hide_border=true" height="250" alt="activity-graph graph"  />
