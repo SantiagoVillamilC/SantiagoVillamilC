@@ -82,7 +82,7 @@
 
 ###
 
-<h3 align="left">Other</h3>
+<h3 align="left">Others</h3>
 
 ###
 
