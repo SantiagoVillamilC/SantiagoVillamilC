@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 Actively seeking job opportunities with some professional experience.<br>- 🔨Engaged in developing a personal time management and optimization software project, currently in the planning phase.<br>- 📚 I´m currently learning TypeScript and refining my JavaScript skills.<br>- 📄 Check out my CV, projects, and more about me at my portfolio examplesite.com.</p>
+<p align="left">- 🔭 Currently working as a Software Developer.<br>- 🔨Engaged in developing a personal time management and optimization software project, currently in the planning phase.<br>- 📚 I´m currently learning TypeScript and refining my JavaScript skills.<br>- 📄 Check out my CV, projects, and more about me at my portfolio examplesite.com.</p>
 
 ###
 
